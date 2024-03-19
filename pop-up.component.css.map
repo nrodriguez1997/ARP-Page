@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/pop-up/pop-up.component.scss"],
+  "sourcesContent": [".pop-up-class{\r\n    margin: 20px;\r\n    padding: 20px;\r\n    text-align: center;\r\n    display: flex;\r\n    align-items: center;\r\n}\r\n\r\n\r\n  \r\n.logo-arp{\r\n    height: 150px;\r\n    margin-right: 20px;     \r\n}\r\n  "],
+  "mappings": ";AAAA,CAAA;AACI,UAAA;AACA,WAAA;AACA,cAAA;AACA,WAAA;AACA,eAAA;;AAKJ,CAAA;AACI,UAAA;AACA,gBAAA;;",
+  "names": []
+}

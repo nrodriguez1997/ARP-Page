@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/about-us/about-us.component.scss"],
+  "sourcesContent": [".arp-title{\r\n    font-weight: 700!important;\r\n}\r\n\r\n.container-about{\r\n    text-align: center;\r\n    margin-top: 5vw;\r\n    margin-bottom: 5vw;\r\n}\r\n\r\n.lista-about{\r\n    margin: auto;\r\n    margin-top: 5vw;\r\n}\r\n\r\n.lista-about img{\r\n    width: 5vw;\r\n    margin: auto;\r\n}\r\n\r\n"],
+  "mappings": ";AAAA,CAAA;AACI,eAAA;;AAGJ,CAAA;AACI,cAAA;AACA,cAAA;AACA,iBAAA;;AAGJ,CAAA;AACI,UAAA;AACA,cAAA;;AAGJ,CALA,YAKA;AACI,SAAA;AACA,UAAA;;",
+  "names": []
+}
